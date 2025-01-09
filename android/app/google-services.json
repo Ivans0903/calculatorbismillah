@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889279049045",
+    "project_id": "calculatorchat-edac1",
+    "storage_bucket": "calculatorchat-edac1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889279049045:android:a4eecfd044526e8be053dc",
+        "android_client_info": {
+          "package_name": "com.example.calculatorbismillah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdEqUyDCsqxn2hn5tIDNCW1gvABMojXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
